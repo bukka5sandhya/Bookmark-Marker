@@ -1,0 +1,58 @@
+.bg-container{
+    background-color:#2d3a8c ;
+    background-size: cover;
+    height:150vh;
+}
+.heading{
+    color:white;
+    font-size:20px;
+    font-family: 'Roboto';
+    padding-top: 10px;
+    padding-left: 5px;
+}
+.heading-two{
+    color:white;
+    font-size: 30px;
+    padding-left:5px;
+    font-family: 'Roboto';
+}
+.inner-card{
+    background-color: white;
+    border-radius: 15px;
+    height:100vh;
+    
+}
+.heading-three{
+    color:black;
+    font-family: 'Roboto';
+    font-size:20px;
+    text-align:center;
+    padding:20px;
+}
+.inner-card-one{
+    background-color:#f5f7fa ;
+    border-radius: 20px;
+    height:60vh;
+    padding:10px;
+    margin:20px;
+
+
+}
+.button{
+    background-color: #21396c;
+    color: white;
+    font-size: 20px;
+    border-radius: 5px;
+    height: 40px;
+    width: 100px;
+}
+.inner-card-two{
+    background-color:#f5f7fa;
+    border-radius:20px;
+    height:100px;
+    margin:20px;
+}
+.red-color{
+    color:red;
+    font-weight: bold;
+}
